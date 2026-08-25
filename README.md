@@ -1,19 +1,19 @@
-# Microsoft Dynamics 365 Business Central – CRM Project
+# 🤝 Microsoft Dynamics 365 Business Central – CRM Project
 
-## Project Overview
+## 📌Project Overview
 
 This project is a **Customer Relationship Management (CRM) solution developed in Microsoft Dynamics 365 Business Central**.
 
 The solution is designed to manage customer information and support the sales process in a centralized system. The CRM process covers Lead Management, Contact Management, Customer Interaction, Opportunity Management, Sales Activity Management, and Quotation Management.
 
-## CRM Process
+## 🔄 CRM Process
 
 ```text
-Lead Management
+ Lead Management
        ↓
 Contact Management
        ↓
-Opportunity Management
+ Opportunity Management
        ↓
 Sales Activities & Follow-ups
        ↓
@@ -28,7 +28,7 @@ Sales Order / Closure
 
 ## Modules
 
-### 1. Lead Management
+### 1️⃣ 🎯Lead Management
 
 The Lead Management module manages potential customers before they move to the next stage of the sales process.
 
@@ -57,7 +57,7 @@ The Lead Management module manages potential customers before they move to the n
 
 ---
 
-### 2. Contact Management
+### 2️⃣ 👥 Contact Management
 
 The Contact Management module maintains customer and contact information in a centralized location.
 
@@ -83,7 +83,7 @@ Developed/extended functionality includes:
 
 ---
 
-### 3. Customer Interaction
+### 3️⃣ 💬 Customer Interaction
 
 The Customer Interaction module maintains customer communication and interaction history.
 
@@ -113,7 +113,7 @@ The Customer Interaction module maintains customer communication and interaction
 
 ---
 
-### 4. Opportunity Management
+### 4️⃣ 💼 Opportunity Management
 
 The Opportunity Management module manages and tracks potential sales after lead qualification.
 
@@ -157,7 +157,7 @@ A competitor tracking section was developed with:
 
 ---
 
-### 5. Sales Activity Management
+### 5️⃣ 📅 Sales Activity Management
 
 Sales Activity Management supports the planning and tracking of sales activities and follow-ups.
 
@@ -185,7 +185,7 @@ Provides reminders for scheduled activities and follow-ups to help users avoid m
 
 ---
 
-### 6. Quotation Management
+### 6️⃣ 📄  Quotation Management
 
 Quotation Management supports the sales quotation process from creation through customer acceptance and conversion to a Sales Order.
 
@@ -217,7 +217,7 @@ Sales Order Processing
 
 ---
 
-### 7. Customer Communication
+### 7️⃣ 📧 Customer Communication
 
 Customer Communication supports communication between sales users and customers.
 
@@ -246,7 +246,7 @@ Customer Communication supports communication between sales users and customers.
 
 ---
 
-## Business Central Development Areas
+## 🚀 Business Central Development Areas
 
 The project involved working with the following Business Central development concepts:
 
@@ -360,21 +360,32 @@ The technical development focused on extending Business Central functionality wh
 
 ---
 
----
-Screenshot:
+## Screenshots
 
+🎯 ### Lead Management
 
 <img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/5b92f51c-dc05-4dbf-9519-00651f3211e4" />
 
+👥 Contact Management
+
 <img width="1364" height="653" alt="image" src="https://github.com/user-attachments/assets/e08520d1-e796-4481-9ae6-9823f4231bb7" />
+
+💬 Customer Interaction
 
 <img width="1342" height="679" alt="image" src="https://github.com/user-attachments/assets/6f5dd999-31d0-47bb-b596-c1ef2a68254b" />
 
+💼 Opportunity Management
+
 <img width="1359" height="687" alt="image" src="https://github.com/user-attachments/assets/29bec61d-71bc-441e-9c8f-83a50d97cd5d" />
+
+📅 Sales Activity Management
 
 <img width="1364" height="694" alt="image" src="https://github.com/user-attachments/assets/e3e29054-4d95-4156-a4ee-a562cd85a4a9" />
 
+🗓️ Sales Calendar
+
 <img width="1365" height="687" alt="image" src="https://github.com/user-attachments/assets/6f0d8fe5-832d-4243-a547-73328ad92d51" />
+
 
 <img width="1362" height="667" alt="image" src="https://github.com/user-attachments/assets/31c7c6c2-1594-48e4-a1b8-25133e48ca89" />
 
@@ -385,13 +396,11 @@ Screenshot:
 <img width="1323" height="674" alt="image" src="https://github.com/user-attachments/assets/458fe680-666c-4172-a821-61fd7d47e80f" />
 
 
----
-
-## Author
+## 👨‍💻Author
 
 **Harshda Mhase**
 Business Central Technical Intern
 
-## Platform
+## 🏢Platform
 
 **Microsoft Dynamics 365 Business Central**
